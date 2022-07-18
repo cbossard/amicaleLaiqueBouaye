@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Amicale Laïque de Bouaye"
+theme = "terrassa"
+
+googleAnalytics = ""
+
+[params]
+    description = "Sections culturelles et sportives de l'Amicale Laïque de Bouaye"
+    favicon = "favicon.ico"
+    logo = ""
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Découvrir nos sections"
+    link = "posts" # Relative URL
+
+
+[params.posts]
+    showAuthor = false
+    showDate = false
+    showTags = false
+    dateFormat = "Monday, Jan, 2006"
+
+[params.contact] # Contact info
+    email = "albBouaye@gmail.com"
+    phone = ""
+    skype = ""
+    address = "1 place du Bois Jacques 44830 BOUAYE"
+
+[params.form] # Contact form
+    netlify = true
+    action = "https://formspree.io/your@email.com"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Votre nom"
+    inputNamePlaceholder = "Nom et prénom"
+    inputEmailName = "email"
+    inputEmailLabel = "Votre adresse email"
+    inputEmailPlaceholder = "xxx@yyy.fr"
+    inputMsgName = "message"
+    inputMsgLabel = "Votre message"
+    inputMsgLength = 750
+    inputSubmitValue = "Envoyer"
