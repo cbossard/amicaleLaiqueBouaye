@@ -1,7 +1,7 @@
 ---
-title: "Ecole du sport (multisports enfant) "
+title: "Ecole du sport "
 date: 2022-07-18T13:15:54.566Z
-description: "Ecole du sport (multisports enfant) "
+description: Mutlisports enfant
 banner: /images/ecoleSport.jpeg
 ---
 ## Description de l'activité
