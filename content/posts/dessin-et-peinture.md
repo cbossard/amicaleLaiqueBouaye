@@ -15,13 +15,13 @@ Une pédagogie interactive prend en compte l’âge, le niveau, et les centres d
 
 *\*horaires modulables pour les lycéens.*
 
-![](images/ADOS-1024x224.jpg)
+![](../../images/ADOS-1024x224.jpg)
 
 ## COURS ADOS PREP’ARTS(c) les Mercredis 19h30 et jeudis 19h30 (285 €, matériel fourni) :
 
 Il s’agira de développer l’expression artistique et la confiance en soi, consolider et approfondir les bases, acquérir de nouvelles techniques, et se préparer de façon pertinente aux divers cursus artistiques et concours des écoles d’arts : book + suivi-conseil…
 
-![](images/prepas-1024x146.jpg)
+![](../../images/pREPAS-1024x146.jpg)
 
 ## COURS ADULTES les Mercredis et Jeudis 19h30 > 21h30 (295 €) :
 
@@ -39,7 +39,7 @@ Gravure souple, pointe sèche : tirages d’originaux.
 
 Illustration : graphisme, typographie & langage de l’image.
 
-![](images/adultes-1024x151.jpg)
+![](../../images/ADULTES-1024x151.jpg)
 
 ## DIVERS STAGES ENFANTS, ADOS, ADULTES, PENDANT LES VACANCES SCOLAIRES.
 

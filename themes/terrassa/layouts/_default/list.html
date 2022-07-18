@@ -1,11 +1,18 @@
 {{ define "main" }}
 <main class="content">
-	{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "posts") }}
 
-	{{ range $paginator.Pages }}
-	{{ .Render "card" }}
-	{{ end }}
+	<h1 class="contact__title">{{ .Title }}</h1>
+    <p class="contact__content">{{ .Description }}</p>
 
-	{{ template "_internal/pagination.html" . }}
+	<div class="cards">
+
+		{{ $paginator := .Paginate (where .Data.Pages.ByTitle "Type" "posts") }}
+
+		{{ range $paginator.Pages }}
+		{{ .Render "card" }}
+		{{ end }}
+
+		{{ template "_internal/pagination.html" . }}
+	</div>
 </main>
 {{ end }}

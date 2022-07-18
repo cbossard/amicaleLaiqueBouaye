@@ -2,9 +2,6 @@
 <article class="post">
     <header class="post__header">
         <h1 class="post__title">{{ .Title }}</h1>
-        {{ if .Description }}
-        <p class="post__subtitle">{{ .Description }}</p>
-        {{ end }}
         {{ if ne .Type "page" }}
         {{ if and $.Site.Params.posts.showDate $.Site.Params.posts.showAuthor }}
         <p class="post__date date">
@@ -22,6 +19,21 @@
     {{ if ne .Type "page" }}
     <main class="post__body">
         
+        <div style="display: flex">
+            <div style="flex:50%; margin-right: 20px">
+                {{ if isset .Params "banner" }}
+                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
+                {{ else }}
+                <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
+                {{ end }}
+            </div>
+            <div> 
+                <h2>Description de l'activité</h2>
+                {{ .Description }}
+            </div>
+        </div>
+
+        <h2>Informations pratiques</h2>
         {{ .Content }}
     </main>
     {{ else }}

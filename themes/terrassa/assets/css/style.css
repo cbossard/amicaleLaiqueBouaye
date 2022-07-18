@@ -203,26 +203,7 @@
 	min-height: 90vh;
 }
 
-/* CARD */
-.card {
-	margin-bottom: 1.75rem;
-	max-width: 900px;
-	text-justify: distribute;
-	width: 70%;
-}
 
-.card__header__link {
-	color: var(--primary-text);
-}
-
-.card__header__link:hover {
-	color: var(--primary);
-}
-
-.card__header__author {
-	margin-bottom: 0.75rem;
-	text-align: left;
-}
 
 /* POST */
 .post {

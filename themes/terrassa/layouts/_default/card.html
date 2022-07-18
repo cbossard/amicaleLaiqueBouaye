@@ -1,7 +1,13 @@
-<article class="card">
-    <header class="card__header">
+<div class="card-item">
+    <a href="{{ .Permalink }}" class="card__header__link" alt="{{ .Title }}.">
+        <div class="thumb" style="background-image: url({{ .Params.banner | relURL }});"></div>
+        <article>
+            <h1>{{ .Title }}</h1>
+        </article>
+    </a>
+    <!-- <header class="card__header">
         <h1 class="card__header__title">
-            <a href="{{ .Permalink }}" class="card__header__link" alt="{{ .Title }}.">
+            
                 {{ .Title }}
             </a>
         </h1>
@@ -20,14 +26,14 @@
 
     <main class="card__body">
         <!-- {{ .Content | truncate 480 }} -->
-        {{ if isset .Params "banner" }}
+        <!-- {{ if isset .Params "banner" }}
         <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
         {{ else }}
         <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
         {{ end }}
-    </main>
+    </main> -->
 
-    <footer class="card__footer">
+    <!-- <footer class="card__footer">
         {{ .Render "tags" }}
-    </footer>
-</article>
+    </footer> --> 
+</div>

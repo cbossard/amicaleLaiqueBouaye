@@ -1,6 +1,6 @@
 ---
 title: "Nos sections"
-description: ""
+description: "Découvrez l’ensemble des activités proposées par nos sections"
 images: []
 draft: false
 menu: main
