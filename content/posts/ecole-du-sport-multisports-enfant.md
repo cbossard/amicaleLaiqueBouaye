@@ -9,7 +9,7 @@ description: >-
 
 
 
-  Plus d’informations sur le site de l’UFOLEP 44 : [http://www.ufolep44.com/page/ecole-du-sport]
+  Plus d’informations sur le site de l’UFOLEP 44 : [http://www.ufolep44.com/page/ecole-du-sport](http://www.ufolep44.com/page/ecole-du-sport)
 informations: >-
   **Public** : de 5 à 7 ans (grande section / CP)
 
