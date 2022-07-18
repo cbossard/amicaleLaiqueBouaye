@@ -6,7 +6,7 @@
 
 	<div class="cards">
 
-		{{ $paginator := .Paginate (where .Data.Pages.ByTitle "Type" "posts") }}
+		{{ $paginator := .Paginate (where .Data.Pages.ByTitle "Type" "posts") 30 }}
 
 		{{ range $paginator.Pages }}
 		{{ .Render "card" }}
