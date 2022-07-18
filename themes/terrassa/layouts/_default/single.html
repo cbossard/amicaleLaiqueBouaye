@@ -21,23 +21,8 @@
 
     {{ if ne .Type "page" }}
     <main class="post__body">
-        <!-- <div style="display: flex;width: 80%;"> -->
-            <!-- <div style="flex: 50%; margin: 50px">
-           
-                {{ if isset .Params "banner" }}
-                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
-                {{ else }}
-                <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
-                {{ end }}
-            </div>
-            <div> -->
-                {{ .Params.description }}
-                {{ .Params.informations }}
-            <!-- </div> -->
         
-        <!-- </div> -->
-        
-        
+        {{ .Content }}
     </main>
     {{ else }}
     <main class="post__body" style="margin-bottom: 3rem;">
