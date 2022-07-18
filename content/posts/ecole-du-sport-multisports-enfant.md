@@ -1,15 +1,10 @@
 ---
 title: "Ecole du sport (multisports enfant) "
 date: 2022-07-18T13:15:54.566Z
-description: >-
-  Pour éviter la spécialisation sportive précoce des enfants et pour leur faire
-  apprécier le sport sous ses multiples facettes, différents cycles sont
-  proposés tout au long de l’année: découverte du corps, jeux d’adresse,
-  d’opposition, collectifs, sports et environnement.
-
-
-
-  Plus d’informations sur le site de l’UFOLEP 44 : [http://www.ufolep44.com/page/ecole-du-sport](http://www.ufolep44.com/page/ecole-du-sport)
+description: "Pour éviter la spécialisation sportive précoce des enfants et pour
+  leur faire apprécier le sport sous ses multiples facettes, différents cycles
+  sont proposés tout au long de l’année: découverte du corps, jeux d’adresse,
+  d’opposition, collectifs, sports et environnement."
 informations: >-
   **Public** : de 5 à 7 ans (grande section / CP)
 
