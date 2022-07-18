@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "fr-fr"
 title = "Amicale Laïque de Bouaye"
 theme = "terrassa"
+themesDir = "themes"
 
 googleAnalytics = ""
 
