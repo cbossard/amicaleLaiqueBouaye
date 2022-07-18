@@ -41,15 +41,6 @@ informations: >-
 banner: images/badminton.jpeg
 ---
 
-
-## Description de l'activité
-
-Activité de loisir ouverte aux débutants et aux initiés, avec possibilité de participer aux championnats Ufolep jeunes et adultes.
-
-Le club met l’accent sur la découverte et le perfectionnement des techniques de jeu, dans une ambiance amicale et conviviale.
-
-## Informations pratiques
-
 **Public** : à partir de 8 ans
 
 **Lieu** : Complexe sportif Bellestre – Salle Herbauges – Bouaye
