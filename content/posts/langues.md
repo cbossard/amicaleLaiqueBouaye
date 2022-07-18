@@ -2,7 +2,7 @@
 title: Langues
 date: 2022-07-18T14:40:58.566Z
 description: Ces cours permettent l’acquisition et l’amélioration des
-  connaissances en **anglais**, **espagnol**, et **italien**.
+  connaissances en anglais, espagnol, et italien.
 banner: /images/destinations-235942_960_720.jpg
 ---
 **Public** : pour tous
