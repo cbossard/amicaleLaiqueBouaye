@@ -1,17 +1,14 @@
 ---
 title: Informatique
 date: 2022-07-18T14:39:59.372Z
-description: >-
-  Activité de découverte du monde de l’informatique, initiation de base sur les
-  produits bureautique Excel, Word, Windows.
-
-
-  Initiation et perfectionnement sur les logiciels de messagerie, Internet, retouches photos, montages vidéos.
-
-
-  **Initiation à la Généalogie** : créez et gérez votre arbre généalogique. Formation assurée sous le logiciel Hérédis
+description: "Plusieurs activités sont proposées : découverte ou
+  perfectionnement du monde de l'informatique ou initiation à la généalogie"
 banner: /images/john-schnobrich-flpc9_vocj4-unsplash-1024x683.jpg
 ---
+** Activités**:
+- Informatique : Activité de découverte du monde de l’informatique, initiation de base sur les produits bureautique Excel, Word, Windows. Initiation et perfectionnement sur les logiciels de messagerie, Internet, retouches photos, montages vidéos.
+- Initiation à la Généalogie : créez et gérez votre arbre généalogique. Formation assurée sous le logiciel Hérédis
+
 
 
 **Public** : pour tous
