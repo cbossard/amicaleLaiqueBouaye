@@ -1,7 +1,7 @@
 ---
 title: "Coding goûters "
 date: 2022-07-18T14:45:29.265Z
-description: >-
+description: >+
   Le Coding Goûter est un rendez-vous mensuel où des enfants et leurs parents
   (ou adulte préféré) s’emparent de différents outils de programmations, des
   jeux et puzzles algorithmiques, des environnements de développements, des
@@ -9,22 +9,17 @@ description: >-
   … et surtout s’amuser et prendre du plaisir. Et comme c’est un goûter, on y
   mange des gâteaux et des bonbons tout au long de l’après-midi
 
-
-  #### **Apprendre avec les enfants, apprendre des enfants, apprendre à faire apprendre les enfants**
-
-
-  Le Coding Goûter se distingue d’autres formats d’ateliers  où l’on apprend à programmer de bien des manières :
-
-
-  * il n’y a pas de prof, ou plutôt, tout le monde est prof ;
-
-  * c’est intergénérationnel : il n’y a pas de limite d’âge, et parents et grands-parents, apprennent tout autant que les enfants ;
-
-  * c’est varié : chacun et chacune progresse sur la piste qui l’intéresse, à son rythme.
-
-  * c’est un moment de partage de connaissances (et de goûter)
 banner: /images/codingGouter.jpeg
 ---
+#### **Apprendre avec les enfants, apprendre des enfants, apprendre à faire apprendre les enfants**
+
+Le Coding Goûter se distingue d’autres formats d’ateliers  où l’on apprend à programmer de bien des manières :
+
+* il n’y a pas de prof, ou plutôt, tout le monde est prof ;
+* c’est intergénérationnel : il n’y a pas de limite d’âge, et parents et grands-parents, apprennent tout autant que les enfants ;
+* c’est varié : chacun et chacune progresse sur la piste qui l’intéresse, à son rythme.
+* c’est un moment de partage de connaissances (et de goûter)
+
 **Public** : A partir de 5 ans
 
 **Lieu** : [foyer Marcel HERBRETEAU, 1 place du Bois Jacques – Bouaye](https://goo.gl/maps/V8JdRcCv72L2)
