@@ -25,12 +25,6 @@ informations: >-
 banner: images/cyclo.jpeg
 ---
 
-## Description de l'activité
-
-Activité de cyclo détente sans esprit de compétition, plusieurs circuits avec un maximum de 50 km en respectant les capacités de chacun..
-
-## Informations pratiques
-
 **Public** : à partir de 15 ans
 
 **Lieu** : Départ du foyer Marcel HERBRETEAU, 1 place du Bois Jacques – Bouaye
